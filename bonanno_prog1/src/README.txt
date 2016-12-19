@@ -18,8 +18,3 @@ D2 sunny hot high strong no
 .
 .
 
-7c)
-
-P(W = strong, H = high| Yes) = P(W = strong | Yes) * P(H = high | Yes)
-.11	=	.33 * .33 
-YES the variables humidity and wind are conditionally independent given label Play
